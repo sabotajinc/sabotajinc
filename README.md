@@ -1,8 +1,10 @@
-## Фесняк Богдан 22 роки
+## Bohdan 
 
-> Студент ІФНТУНГ Кафедра Комп'ютерна інженерія
+> Student IFNTUNG Department of Computer Engineering
 
 > С++ Junior
+
+> Study on Front-end course
 
 * [Gmail](sabotaj717@gmail.com)
 * [Telegram](https://t.me/hoholinc)
