@@ -4,7 +4,7 @@
 
 > С++ Junior
 
-> Study on Front-end course
+> Study on the Front-end course
 
 * [Gmail](sabotaj717@gmail.com)
 * [Telegram](https://t.me/hoholinc)
