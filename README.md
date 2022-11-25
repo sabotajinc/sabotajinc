@@ -1,13 +1,12 @@
-## Bohdan 
+## Bohdan
 
-> Student IFNTUNG Department of Computer Engineering
+> Student of Ivano-Frankivsk National Technical University of Oil and Gas. Department of Computer Engineering
 
-> С++ Junior
+> I am studying to become a Front-End developer
 
-> Study on the Front-end course
+> С/С++ developer
 
 * [Gmail](sabotaj717@gmail.com)
-* [Telegram](https://t.me/hoholinc)
 
 <!---
 sabotajinc/sabotajinc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
